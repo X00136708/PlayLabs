@@ -1,0 +1,9 @@
+run
+compile
+clean
+exit
+run
+code .
+exit
+run
+exit
